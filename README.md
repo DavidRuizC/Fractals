@@ -37,7 +37,7 @@ Header file declaring the three main routines.
 ### 🔹 `Makefile`
 Simplifies compilation of the executable `dibfr`.
 
-### 🔹 `Memoria Numérico def.pdf`
+### 🔹 `Report.pdf`
 Project report detailing the mathematical background, code structure, and usage.
 
 ---
